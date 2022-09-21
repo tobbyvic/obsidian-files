@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.md",
+            "file": "obsidian常用操作和快捷键.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.md",
+                "file": "obsidian常用操作和快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.md",
+                "file": "obsidian常用操作和快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,20 +117,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.md"
+                "file": "obsidian常用操作和快捷键.md"
               }
             }
+          },
+          {
+            "id": "f579e4c70caafcbc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d23836f75351efc8",
+  "active": "f579e4c70caafcbc",
   "lastOpenFiles": [
-    "orphaned files output.md",
-    "1.md"
+    "Untitled.md",
+    "1.md",
+    "obsidian常用操作和快捷键.md",
+    "orphaned files output.md"
   ]
 }
