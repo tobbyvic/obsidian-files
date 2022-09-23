@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/React实现Form和FormItem组件.md",
+            "file": "工具/obsidian常用操作和快捷键.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/React实现Form和FormItem组件.md",
+                "file": "工具/obsidian常用操作和快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/React实现Form和FormItem组件.md",
+                "file": "工具/obsidian常用操作和快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/React实现Form和FormItem组件.md"
+                "file": "工具/obsidian常用操作和快捷键.md"
               }
             }
           },
@@ -137,11 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edeaa1a2409f9057",
+  "active": "5d31b9bbb5b306bb",
   "lastOpenFiles": [
-    "前端/前端学习模块.md",
-    "obsidian常用操作和快捷键.md",
     "2022-09-22.md",
+    "工具/obsidian常用操作和快捷键.md",
+    "前端/前端学习模块路线.md",
+    "前端/React实现Form和FormItem组件.md",
     "1.md",
     "orphaned files output.md"
   ]
