@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/前端学习模块路线.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/前端学习模块路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/前端学习模块路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Javascript中的模块规范.md"
+                "file": "前端/前端学习模块路线.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "09e880574fefdabb",
   "lastOpenFiles": [
+    "前端/D3.js svg转换canvas并进行下载.md",
+    "前端/Javascript中的模块规范.md",
     "前端/前端学习模块路线.md",
     "前端/vue源码笔记/01-20221010.md",
     "2022-10-14.md",
     "Pasted image 20221010104241.png",
     "前端/work/phase.md",
     "前端/React实现Form和FormItem组件.md",
-    "前端/D3.js svg转换canvas并进行下载.md",
     "工具/obsidian常用操作和快捷键.md",
-    "Untitled.md",
-    "2022-09-22.md"
+    "Untitled.md"
   ]
 }
