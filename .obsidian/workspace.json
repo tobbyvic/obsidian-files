@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c59ad51d10ac10c5",
+        "id": "d9b8c6b46d7e51cf",
         "type": "tabs",
         "children": [
           {
-            "id": "14e768374df5fb10",
+            "id": "53fdfc4e5683866b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/React实现Form和FormItem组件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66a2323f6be10b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/前端学习模块路线.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09e880574fefdabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/前端学习模块路线.md",
+                "file": "前端/vue源码笔记/02-20221018.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/前端学习模块路线.md",
+                "file": "前端/vue源码笔记/02-20221018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/前端学习模块路线.md",
+                "file": "前端/vue源码笔记/02-20221018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/前端学习模块路线.md"
+                "file": "前端/vue源码笔记/02-20221018.md"
               }
             }
           },
@@ -173,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "09e880574fefdabb",
+  "active": "53fdfc4e5683866b",
   "lastOpenFiles": [
+    "前端/vue源码笔记/02-20221018.md",
+    "前端/React实现Form和FormItem组件.md",
+    "前端/vue源码笔记/01-20221010.md",
+    "前端/前端学习模块路线.md",
     "前端/D3.js svg转换canvas并进行下载.md",
     "前端/Javascript中的模块规范.md",
-    "前端/前端学习模块路线.md",
-    "前端/vue源码笔记/01-20221010.md",
     "2022-10-14.md",
     "Pasted image 20221010104241.png",
     "前端/work/phase.md",
-    "前端/React实现Form和FormItem组件.md",
-    "工具/obsidian常用操作和快捷键.md",
-    "Untitled.md"
+    "工具/obsidian常用操作和快捷键.md"
   ]
 }
