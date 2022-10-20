@@ -8,139 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53fdfc4e5683866b",
+            "id": "b1b130a60ac2d0cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/D3.js svg转换canvas并进行下载.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10fe5eb86d82c05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/D3.js svg转换canvas并进行下载.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d15f63c048f1b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/React实现Form和FormItem组件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ffd69b254a60a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Javascript中的模块规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c53c194ffa27082d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/D3.js svg转换canvas并进行下载.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c544c10e8d07b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Javascript中的模块规范.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738f884b5d61bff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Vue中静态资源的几种引入方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7635b956a7f0ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Vue中静态资源的几种引入方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1258e0b0ff6c593b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Vue中静态资源的几种引入方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33e43f949247286f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ece9f7cbb1ab32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/Typescript学习笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/Typescript学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/Javascript中的模块规范.md",
+                "file": "前端/Typescript学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Javascript中的模块规范.md"
+                "file": "前端/Typescript学习笔记.md"
               }
             }
           },
@@ -269,8 +148,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81ece9f7cbb1ab32",
+  "active": "b1b130a60ac2d0cc",
   "lastOpenFiles": [
+    "前端/Javascript中的模块规范.md",
     "工作/项目截图.md",
     "前端/Vue中静态资源的几种引入方式.md",
     "前端/Vue中v-for的key的作用.md",
@@ -279,7 +159,6 @@
     "Pasted image 20221020142443.png",
     "前端/Quill.js仿wexin群发表情编辑器.md",
     "工作/phase.md",
-    "前端/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
-    "前端/Vue-CLI发布npm组件流程.md"
+    "前端/Vue-CLI(v4)使用copy-webpack-plugin插件.md"
   ]
 }
