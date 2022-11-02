@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
+                "file": "前端/Vue/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Vue-CLI发布npm组件流程.md",
+                "file": "前端/Vue/Vue-CLI发布npm组件流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "164837051bac8ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/JS/Typescript学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d2d31e7f740549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/VSCode中的常用插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,20 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "50ffa32f9ae1400e",
+  "active": "03d2d31e7f740549",
   "lastOpenFiles": [
-    "前端/Vue-CLI发布npm组件流程.md",
-    "前端/Quill.js仿wexin群发表情编辑器.md",
-    "前端/React实现Form和FormItem组件.md",
-    "前端/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
-    "前端/Vue中v-for的key的作用.md",
-    "前端/Webpack-dev-server原理.md",
-    "前端/Typescript学习笔记.md",
+    "前端/前端学习模块路线.md",
+    "前端/D3.js svg转换canvas并进行下载.md",
+    "前端/VSCode中的常用插件.md",
     "前端/Npm发布scope package包.md",
-    "前端/Vue源码笔记/02-20221018.md",
-    "前端/Vue源码笔记/01-20221010.md"
+    "前端/React/React实现Form和FormItem组件.md",
+    "前端/Webpack-Dev-Server原理.md",
+    "前端/JS/Typescript学习笔记.md",
+    "前端/JS/Javascript中的模块规范.md",
+    "前端/Vue/Quill.js仿wexin群发表情编辑器.md",
+    "前端/Vue/Vue项目如何更改node_modules中的文件.md"
   ]
 }
