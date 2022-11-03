@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/VSCode中的常用插件.md",
+                "file": "工具/VSCode中的常用插件.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Npm发布scope package包.md",
+                "file": "前端/Library/D3.js svg转换canvas并进行下载.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Npm发布scope package包.md",
+                "file": "前端/Library/D3.js svg转换canvas并进行下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/Npm发布scope package包.md",
+                "file": "前端/Library/D3.js svg转换canvas并进行下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Npm发布scope package包.md"
+                "file": "前端/Library/D3.js svg转换canvas并进行下载.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   },
   "active": "03d2d31e7f740549",
   "lastOpenFiles": [
-    "前端/VSCode中的常用插件.md",
-    "前端/Webpack-Dev-Server原理.md",
-    "前端/Npm发布scope package包.md",
-    "前端/D3.js svg转换canvas并进行下载.md",
+    "前端/Library/Npm发布scope package包.md",
+    "前端/Library/Webpack-Dev-Server原理.md",
     "前端/前端学习模块路线.md",
+    "前端/Library/D3.js svg转换canvas并进行下载.md",
+    "工具/Obsidian常用操作和快捷键.md",
+    "工作/项目截图.md",
+    "工作/phase.md",
+    "工具/VSCode中的常用插件.md",
     "前端/React/React实现Form和FormItem组件.md",
-    "前端/JS/Typescript学习笔记.md",
-    "前端/JS/Javascript中的模块规范.md",
-    "前端/Vue/Quill.js仿wexin群发表情编辑器.md",
-    "前端/Vue/Vue项目如何更改node_modules中的文件.md"
+    "前端/JS/Typescript学习笔记.md"
   ]
 }
