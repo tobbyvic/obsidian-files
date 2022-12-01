@@ -42,7 +42,7 @@ include /etc/nginx/sites/pstest.conf;
 未防止搞得混乱，101.43.113.93 服务器上的配置文件在
 
 ```
-/etx/nginx/sites-enabled/default
+/etc/nginx/sites-enabled/default
 ```
 
 所有的https和http配置都放在这个里面。
