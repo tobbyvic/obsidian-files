@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/腾讯云记录汇总.md",
+                "file": "后端/PM2用监控模式实时更新Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/腾讯云记录汇总.md",
+                "file": "后端/PM2用监控模式实时更新Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/腾讯云记录汇总.md",
+                "file": "后端/PM2用监控模式实时更新Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/腾讯云记录汇总.md"
+                "file": "后端/PM2用监控模式实时更新Node.js.md"
               }
             }
           }
@@ -248,13 +248,13 @@
   },
   "active": "ea4686c218077172",
   "lastOpenFiles": [
+    "工具/腾讯云记录汇总.md",
     "前端/Vue/Quill.js仿wexin群发表情编辑器.md",
     "工作/项目截图.md",
-    "工具/腾讯云记录汇总.md",
     "工具/Nginx证书部署.md",
     "工具/VPN配置和网站记录.md",
     "工具/VSCode中的常用插件.md",
-    "后端/# PM2用监控模式实时更新Node.js项目！.md",
+    "后端/PM2用监控模式实时更新Node.js.md",
     "腾讯云/大文件切片上传.md",
     "工具/Obsidian常用操作和快捷键.md",
     "工具/Mac升级系统后的两个小问题.md"
