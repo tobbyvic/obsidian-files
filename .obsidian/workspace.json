@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/项目截图.md",
+                "file": "前端/Library/Webpack-Dev-Server原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/项目截图.md",
+                "file": "前端/Library/Webpack-Dev-Server原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/项目截图.md",
+                "file": "前端/Library/Webpack-Dev-Server原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/项目截图.md"
+                "file": "前端/Library/Webpack-Dev-Server原理.md"
               }
             }
           }
@@ -212,15 +212,15 @@
   },
   "active": "ea4686c218077172",
   "lastOpenFiles": [
+    "1666777763750.png",
+    "前端/Library/Webpack-Dev-Server原理.md",
+    "工作/项目截图.md",
     "工具/Mac升级系统后的两个小问题.md",
     "后端/PM2用监控模式实时更新NodeJS.md",
     "前端/Vue/Quill仿wexin群发表情编辑器.md",
     "前端/Library/Antd-Design-Vue模块化按需引入组件.md",
     "前端/Library/D3转换canvas并进行下载.md",
     "前端/Library/Npm发布scope-package包.md",
-    "前端/Library/Webpack-Dev-Server原理.md",
-    "工具/腾讯云记录汇总.md",
-    "工作/项目截图.md",
-    "工具/Nginx证书部署.md"
+    "工具/腾讯云记录汇总.md"
   ]
 }
