@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/前端学习模块路线.md",
+                "file": "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/前端学习模块路线.md",
+                "file": "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/前端学习模块路线.md",
+                "file": "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/前端学习模块路线.md"
+                "file": "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md"
               }
             }
           }
@@ -222,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d31b9bbb5b306bb",
+  "active": "e8185db57575a656",
   "lastOpenFiles": [
-    "前端/Library/D3转换canvas并进行下载.md",
-    "私密/项目截图.md",
-    "工具/Mac升级系统后的两个小问题.md",
-    "工具/Nginx证书部署.md",
-    "工具/Obsidian常用操作和快捷键.md",
-    "工具/VSCode中的常用插件.md",
-    "私密/VPN配置和网站记录.md",
-    "私密/腾讯云记录汇总.md",
     "README.md",
-    "前端/Library/Webpack-Dev-Server原理.md"
+    "私密/项目截图.md",
+    "私密/腾讯云记录汇总.md",
+    "私密/VPN配置和网站记录.md",
+    "工具/VSCode中的常用插件.md",
+    "工具/Obsidian常用操作和快捷键.md",
+    "工具/Nginx证书部署.md",
+    "工具/Mac升级系统后的两个小问题.md",
+    "工作/前端学习模块路线.md",
+    "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md"
   ]
 }

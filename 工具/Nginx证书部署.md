@@ -10,7 +10,7 @@ https://cloud.tencent.com/document/product/400/35244
 ps aux|grep nginx
 ```
 
-![[Pasted image 20221130134617.png]]
+![[/Pasted image 20221130134617.png]]
 
 nginx的路径为：/usr/sbin/nginx
 
@@ -22,7 +22,7 @@ nginx的路径为：/usr/sbin/nginx
 /usr/sbin/nginx -t
 ```
 
-![[Pasted image 20221130134756.png]]
+![[/Pasted image 20221130134756.png]]
 
 可以看到nginx.conf的路径在
 
