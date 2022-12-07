@@ -55,6 +55,8 @@ sudo systemctl start nginx 启动
 sudo systemctl stop nginx 停止
 ```
 
+sudo systemctl restart nginx
+
 
 
 

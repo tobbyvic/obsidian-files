@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/打开Obsidian的Console.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/打开Obsidian的Console.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/打开Obsidian的Console.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/打开Obsidian的Console.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "ac2decd2f0350dda",
   "lastOpenFiles": [
+    "工具/Nginx证书部署.md",
+    "工具/打开Obsidian的Console.md",
     "私密/hhh.md",
     "私密/项目截图.md",
     "私密/腾讯云记录汇总.md",
-    "工具/打开Obsidian的Console.md",
     "前端/JS/Javascript中的模块规范.md",
     "前端/Vue/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
     "前端/Vue/Quill仿wexin群发表情编辑器.md",
     "工作/前端学习模块路线.md",
-    "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md",
-    "后端/PM2用监控模式实时更新NodeJS.md"
+    "后端/一文弄懂ubuntu安装postgresql以及开启远程访问.md"
   ]
 }
