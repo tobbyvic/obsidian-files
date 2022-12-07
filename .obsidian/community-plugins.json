@@ -1,4 +1,6 @@
 [
   "find-unlinked-files",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-sample-plugin",
+  "image-link-repace"
 ]

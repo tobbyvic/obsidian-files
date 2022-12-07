@@ -1,7 +1,6 @@
 ### 0. linux安装postgresql
 
 #### Step 1 — Installing PostgreSQL
-
 To install PostgreSQL, first refresh your server’s local package index:
 
 ```bash
