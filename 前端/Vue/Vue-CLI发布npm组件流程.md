@@ -5,19 +5,19 @@ mkdir demo
 vue create .
 ```
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1a8be11acee442babc894cd2715ee597~tplv-k3u1fbpfcp-watermark.image?)
+![](/Pasted%20image%2020221208182004.png)
 
 一般开发组件的话，不需要添加vue-router和vuex.
 所以这里只勾选了babel和scss.
 
 ## 修改文件夹
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/33c496830f9b43db8db72a5361105b18~tplv-k3u1fbpfcp-watermark.image?)
+![](/Pasted%20image%2020221208182021.png)
 
 首先需要创建一个 **packages** 目录，用来存放组件
 然后将 src 目录改为 **examples** 用作示例
 
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/be5375a3878f46d9bb4687113f06f073~tplv-k3u1fbpfcp-watermark.image?)
+![](/Pasted%20image%2020221208182035.png)
 
 ## 添加vue.config.js
 
@@ -54,7 +54,7 @@ vue-cli 3.x  提供了[构建库](https://link.juejin.cn/?target=https%3A%2F%2F
 每个组件都应该归类于单独的目录下，包含其组件源码目录 src，和 index.js 便于外部引用
 这里以 MyText 组件为例，完整的 packages 目录结构如下：
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9b4d2d0092234f5fadba88ac9d7b1e96~tplv-k3u1fbpfcp-watermark.image?)
+![](/Pasted%20image%2020221208182055.png)
 
 组件内部导出组件本身
 

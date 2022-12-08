@@ -42,7 +42,7 @@ TypeError: compilation.getCache is not a function
 
 更改package.json
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/160787d002c34eec88ce44d8c481bc7f~tplv-k3u1fbpfcp-watermark.image?)
+![](/Pasted%20image%2020221208181914.png)
 
 ### 重新打包，成功。
 
@@ -52,5 +52,4 @@ npm run build
 
 PS：图中install文件夹就是最上面配置的copy-webpack-plugin里面拷贝过去的。
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d32a4357a4924612a24e30febc4a5d5f~tplv-k3u1fbpfcp-watermark.image?)
-
+![](/Pasted%20image%2020221208181929.png)

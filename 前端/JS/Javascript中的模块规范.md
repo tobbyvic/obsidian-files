@@ -45,7 +45,7 @@ console.log(a.sayHello);//[Function: sayHello]
 图结构在遍历的过程中，有深度优先搜索（DFS, depth first search）和广度优先搜索（BFS, breadth first search）；
 Node采用的是深度优先算法：main -> aaa -> ccc -> ddd -> eee ->bbb
 
-![[/Pasted image 20221017172752.png]]
+![](Pasted%20image%2020221208181728.png)
 
 ## AMD和CMD规范
 

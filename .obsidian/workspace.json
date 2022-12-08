@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Obsidian插件的开发流程.md",
+                "file": "私密/hhh.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Obsidian插件的开发流程.md",
+                "file": "私密/hhh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Obsidian插件的开发流程.md",
+                "file": "私密/hhh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Obsidian插件的开发流程.md"
+                "file": "私密/hhh.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "613ad0e4e8eb545a",
   "lastOpenFiles": [
-    "README.md",
-    "工具/Nginx证书部署.md",
-    "工具/打开Obsidian的Console.md",
-    "私密/hhh.md",
     "私密/项目截图.md",
     "私密/腾讯云记录汇总.md",
-    "前端/JS/Javascript中的模块规范.md",
-    "前端/Vue/Vue-CLI(v4)使用copy-webpack-plugin插件.md",
-    "前端/Vue/Quill仿wexin群发表情编辑器.md",
-    "工作/前端学习模块路线.md"
+    "私密/VPN配置和网站记录.md",
+    "私密/hhh.md",
+    "工具/打开Obsidian的Console.md",
+    "工具/VSCode中的常用插件.md",
+    "工具/Obsidian插件的开发流程.md",
+    "工具/Obsidian常用操作和快捷键.md",
+    "工具/Nginx证书部署.md",
+    "工具/Mac升级系统后的两个小问题.md"
   ]
 }

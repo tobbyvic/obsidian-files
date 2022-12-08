@@ -46,7 +46,7 @@ mac: command + alt + i
 
 plugin每次加载都会执行MyPlugin的onload
 
-![](Pasted%20image%2020221208175911.png)
+![](/Pasted%20image%2020221208175911.png)
 
 
 onload里面可以注册命令行回调函数，即可在obsidian中输入命令行后执行。
@@ -60,7 +60,7 @@ this.addCommand({
 	console.log("editor.getValue", editor.getValue())
 	const content = editor.getValue();
 	const reg = /\!\[\]\(([\s\S]*?)\)/g; // 正则：替换图片的链接
-	const result = content.replaceAll(reg, (name, a) => { return `![](/${a})`})
+	const result = content.replaceAll(reg, (name, a) => { return `![](//${a})`})
 	// editor.replaceRange("我用什么把你留住", { line: 0, ch: 0 })
 	console.log("view", view)
 	view.setViewData(result, false)
