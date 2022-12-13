@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/JS/监听window.location的变化.md",
+                "file": "前端/JS/监听location的变化.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/JS/监听window.location的变化.md",
+                "file": "前端/JS/监听location的变化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/JS/监听window.location的变化.md",
+                "file": "前端/JS/监听location的变化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/JS/监听window.location的变化.md"
+                "file": "前端/JS/监听location的变化.md"
               }
             }
           }
@@ -211,11 +211,11 @@
   },
   "active": "017a4f23d966f32b",
   "lastOpenFiles": [
+    "前端/JS/如何初始化一个Typescript项目.md",
+    "前端/JS/监听location的变化.md",
     "前端/JS/Js正则匹配 两个字符串之间，某个字符串之前（之后）的内容.md",
     "前端/JS/Typescript学习笔记.md",
     "前端/JS/Javascript中的模块规范.md",
-    "前端/JS/如何初始化一个Typescript项目.md",
-    "前端/JS/监听window.location的变化.md",
     "工具/Nginx配置跨域请求Access-Control-Allow-Origin.md",
     "工具/Obsidian插件的开发流程.md",
     "前端/Vue/Vue-CLI发布npm组件流程.md",
